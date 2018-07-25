@@ -6,7 +6,7 @@ Languages
 
 Framework
 --------
--Zurb Foundation
+- Zurb Foundation
 
 Project Description
 --------
